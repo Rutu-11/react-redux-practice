@@ -1,0 +1,13 @@
+.myDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.myDiv>div{
+  width: 250px;
+  height: 250px;
+  background-color: blue;
+}
+/* .img{
+  opacity: 0;
+} */
